@@ -1,0 +1,27 @@
+on: [push]
+
+jobs:
+  repository_versioning:
+    runs-on: ubuntu-latest
+    name: Repository Versioning via GHVersioniser
+    steps:
+      - name: Repository Checkout
+        uses: actions/checkout@v3
+        with:
+          path: target_repository
+          fetch-depth: 0
+      - name: Running GHVersioniser
+        id: ghversioniser
+        uses: luzkan/GHActionsRepo@v1
+        with:
+          input-argument-1: "Luzkan (from Target Repo)"
+      - name: (Test) Output Receiver
+        run: echo "The time was ${{ steps.ghversioniser.outputs.time }}"
+      - name: (Test) Commit and Pushing Changes
+        run: |
+          cd target_repository
+          git config user.name RepoVersioniser
+          git config user.email repo.versioniser@github.com
+          git add .
+          git commit --amend -m "${{ steps.ghversioniser.outputs.commit_message }}"
+          git push -f
