@@ -1,4 +1,8 @@
-on: [push]
+on:
+  push:
+    branches:
+      - master
+      - main
 
 jobs:
   repository_versioning:
@@ -14,14 +18,18 @@ jobs:
         id: ghversioniser
         uses: luzkan/GHActionsRepo@v1
         with:
+          versioniser-username: "GitVersioniser"
+          versioniser-email: "luzkan.gitversioniser@github.com"
+          routine: "last_commit"
+          contribution: "push_main_amend"
           input-argument-1: "Luzkan (from Target Repo)"
       - name: (Test) Output Receiver
         run: echo "The time was ${{ steps.ghversioniser.outputs.time }}"
-      - name: (Test) Commit and Pushing Changes
-        run: |
-          cd target_repository
-          git config user.name RepoVersioniser
-          git config user.email repo.versioniser@github.com
-          git add .
-          git commit --amend -m "${{ steps.ghversioniser.outputs.commit_message }}"
-          git push -f
+      # - name: (Test) Commit and Pushing Changes
+      #   run: |
+      #     cd target_repository
+      #     git config user.name RepoVersioniser
+      #     git config user.email repo.versioniser@github.com
+      #     git add .
+      #     git commit --amend -m "${{ steps.ghversioniser.outputs.commit_message }}"
+      #     git push -f
