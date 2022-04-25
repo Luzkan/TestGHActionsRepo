@@ -18,11 +18,17 @@ jobs:
         id: ghversioniser
         uses: luzkan/GHActionsRepo@v1
         with:
+          # --- Git Credentials
           versioniser-username: "GitVersioniser"
           versioniser-email: "luzkan.gitversioniser@github.com"
+          # --- Main
           routine_version: "last_commit"
-          routine_commit: "prefix_tag"
+          routine_commit_message: "prefix_tag"
           routine_contribution: "push_main_amend"
+          # --- Files
+          routine_file_updater: "versionise_files"
+          versioned_files: "README.md main.py"
+          # --- Misc [dev]
           input-argument-1: "Luzkan (from Target Repo)"
       - name: (Test) Output Receiver
         run: echo "The time was ${{ steps.ghversioniser.outputs.time }}"
