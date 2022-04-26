@@ -27,7 +27,7 @@ jobs:
           # ---------------------------
           # Main
           # ----
-          routine_version: "last_commit"
+          routine_version: "last_gitversioniser_commit"
           routine_contribution: "push_main_amend"
           routine_commit_message: "prefix_tag"
 
