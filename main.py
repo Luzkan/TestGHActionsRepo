@@ -1,6 +1,6 @@
 from rich import print
 
-__version__ = "0.2.2+build.1"
+__version__ = "0.3.0+build.1"
 
 
 def main():
