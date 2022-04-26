@@ -6,6 +6,23 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[0.4.0+build.3]] - 2022-04-26
+
+### Fixed
+- Fixed a bug in smth
+- Tweaked parameters
+
+### Added
+- This is quite new and wholesome #minor
+
+### Changed
+- Now smth works differently but doesn't break compatibility
+
+### Removed
+- Useless Code from smth
+
+
+
 ## [[0.3.1+build.7]] - 2022-04-26
 
 ### Added
@@ -23,3 +40,5 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 
 [0.3.1+build.7]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.3.1+build.7
+
+[0.4.0+build.3]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.4.0+build.3

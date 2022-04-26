@@ -2,4 +2,4 @@
 
 ### Testing [GitVersioniser](https://github.com/Luzkan/GHActionsRepo).
 
-### Current Version: **0.3.1+build.7**
+### Current Version: **0.4.0+build.3**
