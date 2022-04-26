@@ -6,6 +6,13 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[0.4.0+build.4]] - 2022-04-26
+
+### Other
+- Merge pull request #1 from Luzkan/feature/testing_mr_branch
+
+
+
 ## [[0.4.0+build.3]] - 2022-04-26
 
 ### Fixed
@@ -42,3 +49,5 @@ _Note: New changelog entries are going to be created after the first horizontal 
 [0.3.1+build.7]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.3.1+build.7
 
 [0.4.0+build.3]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.4.0+build.3
+
+[0.4.0+build.4]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.4.0+build.4
