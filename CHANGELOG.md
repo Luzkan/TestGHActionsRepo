@@ -6,6 +6,16 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[0.4.0+build.9]] - 2022-04-26
+
+### Added
+- Branch #1
+
+### Removed
+- Branch #2
+
+
+
 ## [[0.4.0+build.7]] - 2022-04-26
 
 ### Added
@@ -61,4 +71,6 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 [0.4.0+build.4]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.4.0+build.4
 [0.4.0+build.7]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.4.0+build.7
+
+[0.4.0+build.9]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.4.0+build.9
 
