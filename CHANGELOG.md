@@ -6,6 +6,25 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[0.5.0+build.7]] - 2022-04-27
+
+### Removed
+- Feature A
+- Feature B
+
+### Changed
+- Feature C
+
+### Added
+- Feature D
+- Feature E
+
+### Other
+- Miscellaneous Change
+- Miscellaneous Change #2
+
+
+
 ## [[0.5.0]] - 2022-04-26
 
 ### Added
@@ -95,4 +114,6 @@ _Note: New changelog entries are going to be created after the first horizontal 
 [0.4.0+build.10]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.4.0+build.10
 
 [0.5.0]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0
+
+[0.5.0+build.7]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.7
 
