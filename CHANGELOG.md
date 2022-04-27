@@ -6,6 +6,20 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[0.5.0+build.18]] - 2022-04-27
+
+### Added
+
+- Feature A
+- Feature C
+
+### Removed
+
+- Feature B
+- Feature D
+
+
+
 ## [[0.5.0+build.14]] - 2022-04-27
 
 ### Removed
@@ -120,3 +134,4 @@ _Note: New changelog entries are going to be created after the first horizontal 
 [0.5.0]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0
 
 [0.5.0+build.14]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.14
+[0.5.0+build.18]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.18
