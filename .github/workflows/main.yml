@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0
       - name: Running GHVersioniser
         id: ghversioniser
-        uses: luzkan/GHActionsRepo@v1
+        uses: luzkan/GHActionsRepo@v0
         with:
           # ---------------------------
           # Versioniser Git Credentials
