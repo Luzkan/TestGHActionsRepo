@@ -6,6 +6,15 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.6.1+build.2`]] - 2022-05-02
+
+### Other
+
+- Commit w/o tags
+
+
+
+
 ## [[`0.6.1+build.1`]] - 2022-05-02
 
 ### Other
@@ -351,3 +360,4 @@ Hehe
 [`0.5.0+build.31`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.31
 [`0.6.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1
 [`0.6.1+build.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1+build.1
+[`0.6.1+build.2`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1+build.2
