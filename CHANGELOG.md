@@ -6,6 +6,23 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.5.0+build.15`]] - 2022-05-02
+
+### Added
+
+- Test #1
+- Test2
+- Test3
+- Auto branch
+- smthh
+
+### Removed
+
+- Test4
+- Test5
+
+
+
 ## [[`0.5.0+build.8`]] - 2022-05-02
 
 ### Added
@@ -189,3 +206,4 @@ _Note: New changelog entries are going to be created after the first horizontal 
 [0.5.0+build.24]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.24
 [0.5.0+build.28]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.28
 [`0.5.0+build.8`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.8
+[`0.5.0+build.15`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.15

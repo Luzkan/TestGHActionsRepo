@@ -8,11 +8,11 @@ def do_versioning(branch_name: str):
     repo = Repo('.')
     branch = repo.create_head(branch_name)
     branch.checkout()
-    repo.git.commit("--allow-empty", "-m", f'A: Feature #1 ({branch_name})')
-    repo.git.commit("--allow-empty", "-m", f'A: Feature #2 ({branch_name})')
-    repo.git.commit("--allow-empty", "-m", f'A: Feature #3 ({branch_name})')
-    repo.git.commit("--allow-empty", "-m", f'R: Something #4 ({branch_name})')
-    repo.git.commit("--allow-empty", "-m", f'R: Something #5 ({branch_name})')
+    repo.git.commit("--allow-empty", "-m", f'A: Feature1 ({branch_name})')
+    repo.git.commit("--allow-empty", "-m", f'A: Feature2 ({branch_name})')
+    repo.git.commit("--allow-empty", "-m", f'A: Feature3 ({branch_name})')
+    repo.git.commit("--allow-empty", "-m", f'R: Something4 ({branch_name})')
+    repo.git.commit("--allow-empty", "-m", f'R: Something5 ({branch_name})')
     repo.remote("origin").push()
 
 
