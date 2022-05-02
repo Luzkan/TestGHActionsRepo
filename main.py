@@ -23,4 +23,4 @@ def main():
 
 
 if __name__ == "__main__":
-    do_versioning('testing/squash_merge2')
+    do_versioning('testing/rebase_merge3')
