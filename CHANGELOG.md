@@ -6,6 +6,16 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.6.1+build.3`]] - 2022-05-02
+
+### Other
+
+- Merge pull request #16 from Luzkan/testing/regular_merge3
+
+Testing/regular merge3
+
+
+
 ## [[`0.6.1+build.2`]] - 2022-05-02
 
 ### Other
@@ -361,3 +371,4 @@ Hehe
 [`0.6.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1
 [`0.6.1+build.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1+build.1
 [`0.6.1+build.2`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1+build.2
+[`0.6.1+build.3`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1+build.3
