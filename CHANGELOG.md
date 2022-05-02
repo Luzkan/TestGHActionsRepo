@@ -6,6 +6,34 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.5.0+build.30`]] - 2022-05-02
+
+### Other
+
+- Test/test1 (#10)
+
+* A: Feature1 (test/test1)
+
+* A: Feature2 (test/test1)
+
+* A: Feature3 (test/test1)
+
+* R: Something4 (test/test1)
+
+* R: Something5 (test/test1)
+
+* A: Testing Something
+
+Might be weird but it is how it is
+
+So now, what about
+
+C: Now doing smth. Cool?
+
+Hehe
+
+
+
 ## [[`0.5.0+build.29`]] - 2022-05-02
 
 ### Other
@@ -252,3 +280,4 @@ _Note: New changelog entries are going to be created after the first horizontal 
 [`0.5.0+build.10`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.10
 [`0.5.0+build.10`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.10
 [`0.5.0+build.29`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.29
+[`0.5.0+build.30`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.30
