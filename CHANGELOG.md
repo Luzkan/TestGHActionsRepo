@@ -6,6 +6,14 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.5.0+build.10`]] - 2022-05-02
+
+### Other
+
+- Feature: Merge (#6)
+
+
+
 ## [[`0.5.0+build.9`]] - 2022-05-02
 
 ### Other
@@ -216,3 +224,4 @@ _Note: New changelog entries are going to be created after the first horizontal 
 [`0.5.0+build.8`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.8
 [`0.5.0+build.15`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.15
 [`0.5.0+build.9`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.9
+[`0.5.0+build.10`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.10
