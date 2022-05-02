@@ -6,6 +6,36 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.6.1`]] - 2022-05-02
+
+### Added
+
+- Feature1 (testing/squash_merge2)
+- Feature2 (testing/squash_merge2)
+- Feature3 (testing/squash_merge2)
+- Feature4 (testing/squash_merge2)
+- Feature5 (testing/squash_merge2)
+
+### Fixed
+
+- Fixed something too! #patch
+
+### Changed
+
+- Logger width
+
+### Removed
+
+- Trash Code
+- Something4 (testing/squash_merge2)
+- Something5 (testing/squash_merge2) #minor
+
+### Deprecated
+
+- 4
+
+
+
 ## [[`0.5.0+build.31`]] - 2022-05-02
 
 ### Other
@@ -309,3 +339,4 @@ Hehe
 [`0.5.0+build.29`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.29
 [`0.5.0+build.30`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.30
 [`0.5.0+build.31`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.5.0+build.31
+[`0.6.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1

@@ -10,9 +10,11 @@ def do_versioning(branch_name: str):
     branch.checkout()
     repo.git.commit("--allow-empty", "-m", f'A: Feature1 ({branch_name})')
     repo.git.commit("--allow-empty", "-m", f'A: Feature2 ({branch_name})')
-    repo.git.commit("--allow-empty", "-m", f'A: Feature3 ({branch_name})')
+    repo.git.commit("--allow-empty", "-m", f'A: Feature3 ({branch_name})\nF: Fixed something too! #patch')
+    repo.git.commit("--allow-empty", "-m", f'A: Feature4 ({branch_name})\nC: Logger width\nR: Trash Code')
+    repo.git.commit("--allow-empty", "-m", f'A: Feature5 ({branch_name})\nElaboration about random stuff\nJIRA/Trello or whatever ID: 4')
     repo.git.commit("--allow-empty", "-m", f'R: Something4 ({branch_name})')
-    repo.git.commit("--allow-empty", "-m", f'R: Something5 ({branch_name})')
+    repo.git.commit("--allow-empty", "-m", f'R: Something5 ({branch_name}) #minor')
     repo.remote("origin").push()
 
 
@@ -21,4 +23,4 @@ def main():
 
 
 if __name__ == "__main__":
-    do_versioning('TBA')
+    do_versioning('testing/squash_merge2')
