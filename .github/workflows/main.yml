@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0
       - name: Running GitVersioniser
         id: gitversioniser
-        uses: luzkan/GitVersioniser@v0
+        uses: luzkan/GitVersioniser@v0.*
         with:
           # ---------------------------
           # Versioniser Git Credentials
@@ -26,12 +26,12 @@ jobs:
           # ---------------------------
           # Versioning
           # ----
-          routine_version: "commits_till_last_gitversioniser_commit"
+          routine_version: "commits_till_last_git_versioniser_commit"
           # ---------------------------
           # Contributing
           # ----
           routine_should_contribute: "if_build_or_higher"
-          routine_commiting: "push_main_amend"
+          routine_commiting: "push_origin_amend"
           # ---------------------------
           # Commit Message
           # ----
