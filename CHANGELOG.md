@@ -6,6 +6,33 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.8.1`]] - 2022-05-04
+
+### Added
+
+- Feature1 (testing/random1)
+- Feature2 (testing/random1)
+- Feature3 (testing/random1)
+- Feature4 (testing/random1)
+- Feature5 (testing/random1)
+- This too goes in here #patch
+
+### Fixed
+
+- Fixed something too! #patch
+
+### Changed
+
+- Logger width
+
+### Removed
+
+- Trash Code
+- Something4 (testing/random1)
+- Something5 (testing/random1) #minor
+
+
+
 ## [[`0.7.0+build.1`]] - 2022-05-04
 
 ### Added
@@ -405,3 +432,4 @@ Hehe
 [`0.6.1+build.2`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1+build.2
 [`0.6.1+build.3`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.6.1+build.3
 [`0.7.0+build.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.7.0+build.1
+[`0.8.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.1
