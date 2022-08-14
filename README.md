@@ -2,4 +2,4 @@
 
 ## Testing [GitVersioniser](https://github.com/Luzkan/GHActionsRepo)
 
-## Current Version: **0.8.3**
+## Current Version: **0.8.4-alpha.1**

@@ -6,6 +6,14 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.8.4-alpha.1`]] - 2022-08-14
+
+### Continuous Integration
+
+- Another Test
+
+
+
 ## [[`0.8.3`]] - 2022-08-14
 
 ### Changed
@@ -486,3 +494,4 @@ Hehe
 [`0.8.2-alpha.1+build.2`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.2-alpha.1+build.2
 [`0.8.2-alpha.1+build.3`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.2-alpha.1+build.3
 [`0.8.3`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.3
+[`0.8.4-alpha.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.4-alpha.1
