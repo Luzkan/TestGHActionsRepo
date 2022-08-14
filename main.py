@@ -1,7 +1,7 @@
-from rich import print
 from git.repo import Repo
+from rich import print
 
-__version__ = "0.5.0"
+__version__ = "0.8.2-alpha.1+build.1"
 
 
 def do_versioning(branch_name: str):
