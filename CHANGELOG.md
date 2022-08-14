@@ -6,6 +6,23 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.8.5`]] - 2022-08-14
+
+### Other
+
+- Mhmm...
+
+
+### Architecture
+
+- Data Scraper directory is now named [`data_scraper`](../data_scraper/) instead of `data`.
+
+### Documentation
+
+- Updated [`README.md`](../README.md) with new directory.
+
+
+
 ## [[`0.8.4-alpha.1`]] - 2022-08-14
 
 ### Continuous Integration
@@ -495,3 +512,4 @@ Hehe
 [`0.8.2-alpha.1+build.3`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.2-alpha.1+build.3
 [`0.8.3`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.3
 [`0.8.4-alpha.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.4-alpha.1
+[`0.8.5`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.5
