@@ -1,11 +1,12 @@
 name: Publish Code Smell Catalog
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    workflows: ["GitVersioniser"]
+    branches: [main]
+    types:
+      - completed
 jobs:
   build:
-    if: ${{ github.actor == 'GitVersioniser' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
