@@ -6,6 +6,14 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.8.2-alpha.1+build.2`]] - 2022-08-14
+
+### Continuous Integration
+
+- Doing a Test for Smells Page
+
+
+
 ## [[`0.8.2-alpha.1+build.1`]] - 2022-08-14
 
 ### Added
@@ -446,3 +454,4 @@ Hehe
 [`0.7.0+build.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.7.0+build.1
 [`0.8.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.1
 [`0.8.2-alpha.1+build.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.2-alpha.1+build.1
+[`0.8.2-alpha.1+build.2`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.2-alpha.1+build.2
