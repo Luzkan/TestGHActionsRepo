@@ -16,8 +16,6 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 - request #19 from Luzkan/docs/test
 
-
-
 ## [[`0.8.5`]] - 2022-08-14
 
 ### Other
