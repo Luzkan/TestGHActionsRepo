@@ -6,6 +6,14 @@ _Note: New changelog entries are going to be created after the first horizontal 
 
 ---
 
+## [[`0.8.8`]] - 2022-08-28
+
+### Changed
+
+- Something!
+
+
+
 ## [[`0.8.7`]] - 2022-08-28
 
 ### Documentation
@@ -15,8 +23,6 @@ _Note: New changelog entries are going to be created after the first horizontal 
 ### Merge Branches
 
 - request #19 from Luzkan/docs/test
-
-
 
 ## [[`0.8.5`]] - 2022-08-14
 
@@ -465,3 +471,4 @@ Hehe
 [`0.8.4-alpha.1`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.4-alpha.1
 [`0.8.5`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.5
 [`0.8.7`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.7
+[`0.8.8`]: https://github.com/Luzkan/TestGHActionsRepo/releases/tag/0.8.8
